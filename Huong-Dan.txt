@@ -3,6 +3,7 @@ Hướng Dẫn Cách Tách Nền Ảnh (Fullsize) Chỉ 2 Phút Ngay Cả Khi B�
 Update tối ưu lại code cũ
 Có thể bạn từng sử dụng Remove.bg để tách hình nền nhanh chóng. Tuy nhiên mỗi tài khoản chỉ hỗ trợ tải 1 ảnh fulsize sau khi tách tách nền. Nếu từ tấm thứ hai trở đi thì hình sẽ bị thu nhỏ (Chất lượng có khi chỉ được 1/10). 
 Nếu bạn có nhiều ảnh cần tách nền thì phải tạo nhiều tài khoản. Việc này khá tốn thời gian. Để rút ngắn công đoạn tạo tài khoản, tác giả Nguyễn Duy Diện đã viết code tự động hóa tạo giúp tạo nhiều tài khoản Remove.bg cùng lúc. Giờ đây, việc tách hình nền của bạn sẽ đơn giản hơn nhiều.
+Trước khi cài đặt, hãy tắt tự động dịch tiếng Trung cho trình duyệt đi để không phát sinh lỗi ngoài ý muốn. 
 Bước 1: Cài đặt Extension iMacros for Chrome. Cho phép Extension hoạt động ở chế độ ẩn danh bằng cách: Dán đường link này vào thanh địa chỉ của Chorme: chrome://extensions/. Click vào Detail chỗ iMacros for Chrome, bật chế độ “Allow in incognito”.
 
 Bước 2: Bây giờ bạn mở trình duyệt ẩn danh lên (Ctrl + Shift + N). Click vào biểu tượng iMacros, chọn Record -> Record Macro.
