@@ -1,2 +1,19 @@
 # tach-nen-anh-auto-imacros
-Cách tách nền ảnh nhanh gọn bằng code imacros
+Hướng Dẫn Cách Tách Nền Ảnh (Fullsize) Chỉ 2 Phút Ngay Cả Khi Bạn Không Biết Gì Về Photoshop
+Update tối ưu lại code cũ
+Có thể bạn từng sử dụng Remove.bg để tách hình nền nhanh chóng. Tuy nhiên mỗi tài khoản chỉ hỗ trợ tải 1 ảnh fulsize sau khi tách tách nền. Nếu từ tấm thứ hai trở đi thì hình sẽ bị thu nhỏ (Chất lượng có khi chỉ được 1/10). 
+Nếu bạn có nhiều ảnh cần tách nền thì phải tạo nhiều tài khoản. Việc này khá tốn thời gian. Để rút ngắn công đoạn tạo tài khoản, tác giả Nguyễn Duy Diện đã viết code tự động hóa tạo giúp tạo nhiều tài khoản Remove.bg cùng lúc. Giờ đây, việc tách hình nền của bạn sẽ đơn giản hơn nhiều.
+Bước 1: Cài đặt Extension iMacros for Chrome. Cho phép Extension hoạt động ở chế độ ẩn danh bằng cách: Dán đường link này vào thanh địa chỉ của Chorme: chrome://extensions/. Click vào Detail chỗ iMacros for Chrome, bật chế độ “Allow in incognito”.
+
+Bước 2: Bây giờ bạn mở trình duyệt ẩn danh lên (Ctrl + Shift + N). Click vào biểu tượng iMacros, chọn Record -> Record Macro.
+
+ Bước 3: Click nút Stop, sẽ có một cửa sổ hiện ra. Trong cửa sổ có 1 đoạn code, bạn xóa đoạn Code đó đi, thay thế đoạn Code bên trong file vào
+ https://github.com/nguyenduydien/tach-nen-anh-auto-imacros/blob/master/code-imacros.txt
+Click Save & Close.
+
+Bây giờ bạn chọn vào Play -> Play Marco
+
+Trên trình duyệt ẩn danh sẽ tự động truy cập ngẫu nhiên vào trang mail server (được liệt kê danh sách trước) để tạo mail ảo cho bạn. Sao đó các thao tác tự động sẽ dùng mail ảo đó để đăng ký tài khoản Remove.bg cho bạn. Sau khi đăng ký xong, bạn chỉ cần Upload ảnh cần tách nền là xong.
+Sau khi tách nền tấm hình đầu tiên xong, bạn tắt trình duyệt ẩn danh rồi mở lại. Tiếp tục thao tác lại ở bước Play -> Play Marco.
+Như vậy, bạn chỉ mất khoản vài giây để tạo tài khoản remove.bg để tách hình nền Online. Chất lượng của ảnh được tách nền ra rất rõ nén. Bạn nào có ảnh xịn chụp từ máy ảnh thì test nó mới thấy sự khác biệt của ảnh preview và ảnh fullsize.
+Chú ý: Bước Đăng ký nếu dính captcha chì pause lại, check xong captcha thì ấn cho chạy tiếp.  
