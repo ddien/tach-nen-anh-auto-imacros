@@ -1,6 +1,6 @@
 TAB CLOSEALLOTHERS
 TAB T=1
-SET !VAR1 EVAL("var options = ['http://my.ehsrr.com','http://maili.xyz','https://mail.cmliu.net','http://mail.binye.xyz','http://nide.men:3000']; var string = ''; for(var i = 0; i < 1; i++){string += options[parseInt(Math.random() * 5)]}; string")
+SET !VAR1 EVAL("var options = ['https://mail.cmliu.net','http://nide.men:3000']; var string = ''; for(var i = 0; i < 1; i++){string += options[parseInt(Math.random() * 2)]}; string")
 SET !EXTRACT_TEST_POPUP NO
 SET !TIMEOUT_PAGE 100 
 URL GOTO={{!VAR1}}
@@ -31,3 +31,5 @@ WAIT SECONDS=2
 TAG POS=1 TYPE=BUTTON FORM=ID:new_user ATTR=TXT:Log<SP>in
 WAIT SECONDS=3
 TAG POS=1 TYPE=A ATTR=TXT:Upload<SP>an<SP>image
+PAUSE
+CLEAR
