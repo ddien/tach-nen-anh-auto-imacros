@@ -1,6 +1,6 @@
 TAB CLOSEALLOTHERS
 TAB T=1
-SET !VAR1 EVAL("var options = ['https://mail.cmliu.net','http://nide.men:3000','http://mylongxin.cn:3000','http://mail.hrka.net', 'http://links.icamtech.com']; var string = ''; for(var i = 0; i < 1; i++){string += options[parseInt(Math.random() * 2)]}; string")
+SET !VAR1 EVAL("var options = ['http://nide.men:3000','http://mylongxin.cn:3000','http://mail.hrka.net', 'http://links.icamtech.com']; var string = ''; for(var i = 0; i < 1; i++){string += options[parseInt(Math.random() * 4)]}; string")
 SET !EXTRACT_TEST_POPUP NO
 SET !TIMEOUT_PAGE 100 
 URL GOTO={{!VAR1}}
