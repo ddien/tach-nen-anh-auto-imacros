@@ -11,10 +11,10 @@
   <p align="center">
     Bạn có thể biết rằng sử dụng Remove.bg để tách hình nền nhanh chóng hơn photoshop. Tuy nhiên mỗi tài khoản chỉ tách được một tấm hình, nếu từ tấm thứ hai trở đi thì hình sẽ bị thu nhỏ. Nếu bạn có nhiều ảnh cần tách nền thì phải tạo nhiều tài khoản. Việc này khá tốn thời gian. Để rút ngắn công đoạn tạo tài khoản, tác giả Nguyễn Duy Diện đã viết code tự động hóa tạo giúp tạo nhiều tài khoản Remove.bg cùng lúc. Giờ đây, việc tách hình nền của bạn sẽ đơn giản hơn nhiều.
     <br />
-    <a href="https://github.com/ddien/tach-nen-anh-auto-imacros"><strong>Explore the docs »</strong></a>
+    <a href="https://www.facebook.com/1184939841838134/"><strong>Bài viết Trong J2Team »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ddien/tach-nen-anh-auto-imacros">View Demo</a>
+    <a href="http://mailtam.xyz">Trang Mailtam - Server mail ảo duy nhất đăng ký được Remove.bg</a>
     ·
     <a href="https://github.com/ddien/tach-nen-anh-auto-imacros/issues">Report Bug</a>
     ·
