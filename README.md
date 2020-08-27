@@ -16,9 +16,9 @@
     <br />
     <a href="http://mailtam.xyz">Trang Mailtam.xyz</a>
     ·
-    <a href="https://github.com/ddien/tach-nen-anh-auto-imacros/issues">Report Bug</a>
+    <a href="https://remove.bg">Remove.bg</a>
     ·
-    <a href="https://github.com/ddien/tach-nen-anh-auto-imacros/issues">Request Feature</a>
+    <a href="https://chrome.google.com/webstore/detail/imacros-for-chrome/cplklnmnlbnpmjogncfgfijoopmnlemp?hl=vi">Cài iMacros Cho Chrome</a>
   </p>
   </p>
  </p>
