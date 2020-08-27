@@ -11,16 +11,16 @@
   <p align="center">
     YOUR_SHORT_DESCRIPTION
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ddien/tach-nen-anh-auto-imacros"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/ddien/tach-nen-anh-auto-imacros">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/ddien/tach-nen-anh-auto-imacros/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/ddien/tach-nen-anh-auto-imacros/issues">Request Feature</a>
   </p>
-</p>
+  </p>
 # tach-nen-anh-auto-imacros
 Cách tách nền ảnh nhanh gọn bằng code imacros
 1. Copy nội dung trong file code imacros
