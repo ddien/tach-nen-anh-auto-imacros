@@ -14,7 +14,7 @@
     <a href="https://www.facebook.com/1184939841838134/"><strong>Bài viết Trong J2Team »</strong></a>
     <br />
     <br />
-    <a href="http://mailtam.xyz">Trang Mailtam - Server mail ảo duy nhất đăng ký được Remove.bg</a>
+    <a href="http://mailtam.xyz">Trang Mailtam.xyz</a>
     ·
     <a href="https://github.com/ddien/tach-nen-anh-auto-imacros/issues">Report Bug</a>
     ·
