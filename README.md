@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ddien/tach-nen-anh-auto-imacros">
-    <img src="https://www.remove.bg/images/remove_image_background.jpg" alt="Logo" width="150" >
+    <img src="https://www.remove.bg/images/remove_image_background.jpg" alt="Logo" width="250" >
   </a>
 
   <h3 align="center">Hướng Dẫn Cách Tách Nền Ảnh TỰ ĐỘNG (Fullsize) Chỉ 1 Phút Ngay Cả Khi Bạn Không Biết Gì Về Photoshop
