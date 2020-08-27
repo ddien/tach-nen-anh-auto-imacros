@@ -22,7 +22,7 @@
   </p>
   </p>
  </p>
-## Cách tách nền ảnh nhanh gọn bằng code imacros
+### Cách tách nền ảnh nhanh gọn bằng code imacros
 1. Copy nội dung trong file code imacros
 
 2. Cài imacros for chrome trên cửa hàng tiện ích
