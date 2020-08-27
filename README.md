@@ -29,12 +29,13 @@
 2. Cài imacros for chrome trên cửa hàng tiện ích
 
 3. Vào trang tiện ích, bật cho phép chạy trong ẩn danh.
-
+Dán đường link này vào thanh địa chỉ của Chorme: chrome://extensions/. Click vào Detail chỗ iMacros for Chrome, bật chế độ “Allow in incognito”.
+  <p align="center">
     <img src="/image/iMacros-for-Chrome.jpg" alt="Logo" width="550" >
-
+</p>
 4. Nhấn record, nhấn lưu một macros bất kỳ. Click chuột phải vào Current, sau đó chọn edit. Paste code vào, save as. Đặt tên file.
-
+  <p align="center">
     <img src="/image/record-macro-1.jpg" alt="Logo" width="250" >
-
+</p>
 5. Mở cửa sổ ẩn danh, nhận play code vừa lưu
 
